@@ -32,5 +32,3 @@ print(blueSG.type_of_tank)
 print(blueSG.seating_capacity)
 print(blueSG.maximum_velocity)
 blueSG.drive()
-
-print('Testing')
